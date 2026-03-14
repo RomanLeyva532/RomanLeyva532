@@ -1,6 +1,6 @@
 ## Hola! Soy Román Leyva
 
-Actualmente me interesan los procesos relacionados a la gestión de proyectos e ingeniería de software. He realizado tanto la parte de análisis y diseño inicial como la de desarrollador e software.
+Actualmente me interesan los procesos relacionados a la gestión de proyectos e ingeniería de software. He realizado tanto la parte de análisis y diseño (documentación técnica) inicial como la de desarrollador en software.
 
 # ------------- Listado de proyectos 🛠️⛏️ ----------------
 
