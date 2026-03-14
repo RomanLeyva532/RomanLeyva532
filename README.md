@@ -2,7 +2,7 @@
 
 Actualmente me interesan los procesos relacionados a la gestión de proyectos e ingeniería de software. He realizado tanto la parte de análisis y diseño inicial como la de desarrollador e software.
 
-# -------------------- Listado de proyectos 🛠️⛏️ -----------------------
+# ------------- Listado de proyectos 🛠️⛏️ ----------------
 
 ## AEPD- Sistema para Aprovechamiento de Espacios Públicos Deportivos [https://github.com/ShabbyRug775/AEPD]
 *Colaborador en MERN Stack
